@@ -1,5 +1,6 @@
 #!/bin/bash
 
 # heading 
-echo "welcome first line"
- 
+echo " first line"
+
+echo "something chsnged" 
